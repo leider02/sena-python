@@ -5,4 +5,4 @@ valor_dias = float(input("ingresar valor dias: "))
 valor_pagar = dias_trabajados * valor_dias
 
 # imprimir 
-print("el valor de pago es:", valor_pagar)
+print("el valor de pago es: ", valor_pagar)
